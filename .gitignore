@@ -1,2 +1,1 @@
-*.log
-secrets.toml
+.streamlit/secrets.toml
