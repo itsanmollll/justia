@@ -133,3 +133,11 @@ df = pd.DataFrame({
 })
 
 df
+
+
+TrbVEouKSUmyJacdDUcz2SlZHjZ4wCzjbXICk7BYLnw=
+
+import unify
+client = unify.Unify("gpt-4o@openai", api_key=<
+TrbVEouKSUmyJacdDUcz2SlZHjZ4wCzjbXICk7BYLnw=>)
+client.generate("hello world!")
